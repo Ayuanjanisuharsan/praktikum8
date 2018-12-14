@@ -268,9 +268,9 @@ return 0;
 
 **Alur algoritma**
 
-    Mendeklarasikan variabel 'int main(int argc, char *argv[]' sebagai variable input.
-    Membaca input dari keyboard 'int a[10][10],m,n,i,j;'
-    Membandingkan nilai variable system("PAUSE"); return EXIT_SUCCESS;
+1. Mendeklarasikan variabel 'int main(int argc, char *argv[]' sebagai variable input.
+2. Membaca input dari keyboard 'int a[10][10],m,n,i,j;'
+3. Membandingkan nilai variable system("PAUSE"); return EXIT_SUCCESS;
 
 **Flowchart Program**
 https://github.com/ayuanjani4321/praktikum8/blob/master/latihan4/Flowchart4.png
